@@ -62,7 +62,7 @@ cd wiki-ICM
 
 ¡Toda ayuda es bienvenida! Para mantener el orden del repositorio, actualmente gestionamos las contribuciones de forma directa.
 
-1. **Contactar:** Envía un mensaje a cualquiera de los administradores que aparecen en la pestaña de [Contributors](../../graphs/contributors).
+1. **Contactar:** Envía un mensaje a cualquiera de los administradores que aparecen en la pestaña de Contributors.
 2. **Formato:** Asegúrate de que el material siga la estructura de carpetas mencionada arriba.
     * Si es material nuevo (ej. apuntes de este año), crea la carpeta del año correspondiente (ej. `2025`).
     * Nombra los archivos claramente.
