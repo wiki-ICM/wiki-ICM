@@ -47,23 +47,34 @@ Este repositorio utiliza **Git LFS** (Large File Storage) debido al tamaño de l
 
 Abre tu terminal (o Git Bash en Windows) y ejecuta los siguientes comandos en orden:
 
+#### 1. Inicializar Git LFS
 ```bash
-# 1. Inicializar Git LFS
 git lfs install
-
-# 2. Clonar el repositorio
+```
+#### 2. Clonar el repositorio
+```bash
 git clone https://github.com/wiki-ICM/wiki-ICM.git
+```
+#### 3. Entrar a la carpeta
 
-# 3. Entrar a la carpeta
+```bash
 cd wiki-ICM
 ```
-
-## 🤝 ¿Cómo aportar material?
+## 🤝 Cómo aportar o unirse al equipo
 
 ¡Toda ayuda es bienvenida! Para mantener el orden del repositorio, actualmente gestionamos las contribuciones de forma directa.
 
-1. **Contactar:** Envía un mensaje a cualquiera de los administradores que aparecen en la pestaña de Contributors.
+Puedes escribirnos a cualquiera de los coordinadores si deseas:
+1. **Enviar material** (apuntes, pruebas, libros).
+2. **Solicitar acceso** para ser *colaborador* del repositorio.
+
+**Contactos:**
+* 📧 [jjunemann2024@udec.cl](mailto:jjunemann2024@udec.cl)
+* 📧 [bsandoval2018@udec.cl](mailto:bsandoval2018@udec.cl)
+* 📧 [pnahuelquin2024@udec.cl](mailto:pnahuelquin2024@udec.cl)
+
+> **Nota:** Si envías material, por favor indica en el asunto el nombre del ramo y el año. Si quieres ser colaborador, cuéntanos brevemente tu motivación.
+
 2. **Formato:** Asegúrate de que el material siga la estructura de carpetas mencionada arriba.
-    * Si es material nuevo (ej. apuntes de este año), crea la carpeta del año correspondiente (ej. `2025`).
-    * Nombra los archivos claramente.
+
 
