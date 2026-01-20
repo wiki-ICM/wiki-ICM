@@ -36,7 +36,22 @@ wiki-ICM/
 
 > **Nota:** La carpeta `Certamenes` dentro de cada ramo está pensada para recopilaciones globales. Si tienes una pauta específica de un año (ej. Pauta Certamen 1 2024), es preferible ponerla dentro de la carpeta del año `2024`.
 
+
 ## 📥 ¿Cómo descargar el material?
+
+
+Existen dos formas principales de obtener el contenido de la **Wiki-ICM**:
+
+#### 1. En formato ZIP 
+Con este formato tendrás todo el material, pero **no** recibirás nuevas actualizaciones automáticamente.
+
+**Pasos:**
+1.  En la página principal del repositorio, busca el botón verde que dice **Code** (`<> Code`).
+2.  En el menú desplegable, selecciona la opción **Download ZIP**.
+3.  Una vez descargado, haz clic derecho sobre el archivo y selecciona "Extraer aquí" o "Descomprimir".
+
+#### 2. Usando Git 
+Con este formato recibes las actualizaciones, sin tener que descargar todo de nuevo. Además, asegura que los archivos pesados se descarguen correctamente.
 
 Este repositorio utiliza **Git LFS** (Large File Storage) debido al tamaño de los archivos (PDFs, imágenes, etc.). Es importante seguir estos pasos para descargar los archivos correctamente y no solo los enlaces simbólicos.
 
