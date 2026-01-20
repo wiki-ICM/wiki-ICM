@@ -52,7 +52,7 @@ Abre tu terminal (o Git Bash en Windows) y ejecuta los siguientes comandos en or
 git lfs install
 
 # 2. Clonar el repositorio
-git clone [https://github.com/wiki-ICM/wiki-ICM.git](https://github.com/wiki-ICM/wiki-ICM.git)
+git clone https://github.com/wiki-ICM/wiki-ICM.git
 
 # 3. Entrar a la carpeta
 cd wiki-ICM
